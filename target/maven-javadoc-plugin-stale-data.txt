@@ -1,0 +1,41 @@
+/usr/lib/jvm/java-8-openjdk-amd64/jre/../bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/vietdung/Desktop/GHTK/truongvietdung-lib/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trương Việt Dũng library 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Trương Việt Dũng library 1.0.0 API'
+com.truongvietdung
+com.truongvietdung.utils
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/src/main/java = 1638467027314
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/script.js = 1638469564917
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/overview-frame.html = 1638469564849
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/overview-tree.html = 1638469564897
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/overview-summary.html = 1638469564909
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/help-doc.html = 1638469564913
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/allclasses-frame.html = 1638469564905
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/index-all.html = 1638469564901
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/deprecated-list.html = 1638469564905
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/allclasses-noframe.html = 1638469564905
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/index.html = 1638469564909
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/stylesheet.css = 1638469564917
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/constant-values.html = 1638469564881
+/home/vietdung/Desktop/GHTK/truongvietdung-lib/target/apidocs/package-list = 1638469564845
