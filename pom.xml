@@ -11,7 +11,7 @@
 
   <name>Trương Việt Dũng library</name>
   <description>code by Trương Việt Dũng</description>
-  <url>https://github.com/vietdung131099</url>  <!-- chỗ này sẽ để link git hub của project này lên -->
+  <url>https://github.com/vietdung131099/truongvietdung-lib</url>
 
   <licenses>
     <license>
@@ -30,9 +30,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com:vietdung131099/toeic-lib.git</connection>
-    <developerConnection>scm:git:ssh://github.com:vietdung131099/toeic-lib.git</developerConnection>
-    <url>https://github.com/vietdung131099/toeic-lib</url>
+    <connection>scm:git:git://github.com:vietdung131099/truongvietdung-lib.git</connection>
+    <developerConnection>scm:git:ssh://github.com:vietdung131099/truongvietdung-lib.git</developerConnection>
+    <url>https://github.com/vietdung131099/truongvietdung-lib</url>
   </scm>
 
   <distributionManagement>
