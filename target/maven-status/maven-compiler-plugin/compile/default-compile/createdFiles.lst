@@ -1,1 +1,4 @@
-com/truongvietdung/utils/Test.class
+com/truongvietdung/helpers/IRestTemplateBuilder.class
+com/truongvietdung/helpers/RestTemplateBuilder.class
+com/truongvietdung/helpers/HttpHeaderBuilder.class
+com/truongvietdung/helpers/UrlBuilder.class
